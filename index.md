@@ -5,6 +5,13 @@ title: Ondrej Sika
 
 Toto je muj profesni web. Muj soukromy web je [ondrejsika.com](https://ondrejsika.com)
 
+<div class="alert alert-danger" role="alert">
+  <a href="https://ondrejsika.com/static/content/EthereumDeveloper.pdf" class="alert-link">
+    Bitcoin Developer Wanted - Slush Pool hleda Bitcoin vyvojare!
+  </a>
+</div>
+
+
 # Ondrej Sika
 
 <img src="/static/ondrejsika1_200px.jpg">
