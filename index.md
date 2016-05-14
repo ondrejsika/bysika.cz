@@ -1,87 +1,91 @@
 ---
 layout: default
-title: Skoleni GIT
+title: Ondrej Sika
 ---
 
-# Skoleni GIT
+Toto je muj profesni web. Muj soukromy web je [ondrejsika.com](https://ondrejsika.com)
 
-## O mne
+# Ondrej Sika
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.com) a skolim GIT a ekosystem okolo. Mimo skoleni GITu nabizim jeste mnoho dalsich skoleni, muzete je najit na mem webu [ondrejsika.com/skoleni](https://ondrejsika.com/skoleni).
+<img src="/static/ondrejsika1_200px.jpg">
 
-S GITem mam vice nez 5 let zkusenosti v komercnim vyvoji software. Pracuji jako vyvojar na nekolika globalnich projektech, primarne na [Slush Pool](https://slushpool.com). Skolim vice nez 3 roky problematiku kolem verzovani a vyvoje software obecne. Vsechny kurzy vedu osobne.
+Jmenuji se Ondrej Sika a jsem Software engeneer na [SlushPoolu](https://slushpool.com) a konzultant.
+
+Moje zkusenosti jsou prevazne v oblasiti backedu aplikaci a __Bitcoinu__, pouzivam prevazne __Python / Twisted__ a __Python / Django__.
+
+### Skills
+
+__Python__, __Django__, __Twisted__, __Bitcoin__, __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j)
+
+### Resume
+
+Muj zivotopis ke stazeni v PDF: [ondrejsika.com/resume.pdf](https://ondrejsika.com/resume.pdf)
 
 
-## Co vas naucim
+## Nabizim
 
-Nabizim dva druhy skoleni, pro zacatecniky a pro pokrocile.
+### Vyvoj software
 
-V kurzu pro zacatecniky si rekneme co to vlastne verzovani je a seznamime se se zakladnimi prikazy a workflow GITu. GIT si nainstalujeme, nakonfigurujeme, pripadne si vytvorime ssh klice na praci se vzdalenymi repozitaremi. Ukazi vam jak v GITu pracovat s vetvemi, stashem a dalsimi jednoduchymi konstrukty, ktere vam v nmohem zprijemni vyvoj software. Naucim vas pracovat s nastroji jako je [Github](https://github.com) a nebo [Gitlab](https://gitlab.com).
+Momentalne jsem plne zamestnan praci na [Slush Poolu](https://slushpool.com), nejsem k dispozici na zadne zakazky vyvoje software.
 
-V pokrocilem kurzu si ukazeme dalsi moznosti prace s kodem, slozitejsi workflow a pokrocily refaktoring kodu. Rekneme si o tom jak si nastavit procesy ve firme pro efektivni vyvoj software v teamu, ukazeme si vyhody a nevyhody jednotlivych workflow a vy se muzete rozhodnout co vam vyhovuje nejvice. Ukazi vam jak si spustit privatni [Gitlab](https://gitlab.com) instanci na vlastni infrastrukture. V pripade zajmu Vam ukazi zaklady CI (Continues Integration) a automatickeho testovani.
+Rad vam pomohu s vyberem vhodneho reseni.
 
 
-## Jak skoleni probiha
+### Skoleni
 
-Skoleni probiha bud u me v kancelari nebo mohu priject k Vam do firmy. Na skoleni je potreba vlastni notebook, na operacnim systemu nezalezi. GIT si spolecne nainstalujeme a nakonfigurujeme, pokud bude potreba. Pri skoleni si ukazeme vsechny konstrukty na pripravenych ukazkovych repozitarich, v pripade zejmu na vlastnim projekte. Vse si podrobne vyzkousime a osahame. Skoleni trva zhruba 4 hodiny.
+#### Skoleni GIT
 
-Vsechny materialy ze skoleni jsou volne k dispozici na [github.com/skoleni-git](https://github.com/skoleni-git) a na mem [Speakerdeck](https://speakerdeck.com/ondrejsika).
+Jiz tri roky skolim lidi a firmy jak spravne a jednoduse pouzivat GIT - [skoleni-git.cz](https://skoleni-git.cz)
 
-Po absolvovani skoleni obdrzite certifikat o ucasti, PGP podepsany a verejne auditovatelny z webu.
 
-## Mam zajem o skoleni
+#### Management okolo vyvoje software
 
-Otevřené termíny naleznete zde. Pokud máte zájem o školení ve firmě nebo o jiny termin, neváhejte me kontaktovat.
+V minulosti jsem vedl team vyvojaru na velkem mezinarodnim projektu, ziskal jsem mnoho zkusenosti jak efektivne vyvijet, testovat a nasazovat software. Mohu vam poradit jak pouzivat nastroje na management softwarovych projektu jako je Redmine, Trello, spravu repozitaru pomoci Githubu a Gitlabu, automaticke testovani a nasazovani pomoci Gitlab CI a nastroju jako je Puppet nebo Ansible.
 
-| Nazev | Termin |
-| --- | --- |
-| GIT pro zacatecniky | 18. 5. 2016 |
-| GIT pro pokrocile | 25. 5. 2016 |
-| GIT pro zacatecniky | 15. 6. 2016 |
-| GIT pro pokrocile | 22. 6. 2016 |
+
+#### Continues Integration a automaticke testovani
+
+Muze byt dalsim pokracovanim skoleni GITu a nebo managementu vyvoje, kde se tematu CI nevenujeme uplne dopodrobna. Naucim Vas si zprovoznit CI enviroment na vlastni infrastrukture a ukazu Vam ze psani spousteni testu automaticky neni nic sloziteho.
+
+#### LaTeX
+
+Tento kurz je vhodny prevazne pro ty, kteri pisi vedecke prace (bakalarske a magisterske prace) a chteji byt usetreni nastavovanim a problemum ktere vznikaji pri psani prace ve Wordu nebo LibreOffice. Ukazeme si ze psani v LaTeXu neni tak slozite jak na prvni pohled vypada a ze po proniknuti bude psani mnohem jednodussi. Vyhodou LaTeXu je efektivni moznost verzovani pomoci GITu a zaroven je mozna realtime kolaborace pomoci nastroje [ShareLatex](https://sharelatex.com) jakou znate z Google Docs.
+
+
+### Konzultace
+
+Mohu s Vami konzultovat jakekoliv tema co se tyka vyvoje softwaru a veci co skolim.
+
+#### Bitcoin
+
+Bitcoinu se venuji vice nez 2 roky a pracuji na velkem Bitcoinovem projektu co se zabiva tezbou - na [SlushPoolu](https://slushpool.com).
+
+Mohu Vam pomoct s implementaci Bitcoinovych plateb, a vseho mozneho co se Bitcoinu tyce.
+
+#### Blockchain
+
+Dnes je blockchain velmi popularni tema, mohu vam pomoc s integraci blockchainu do vaseho software. Muzu vam pomoc s verejne auditovatelnymi daty na blockchainu jako je napriklad sluzba [BlockSign](https://blocksign.com).
+
+
+## Prednasim
+
+Obcas prednasim na meetupech a konferencich, prevazne na tema Bitcoin a vyvoj software. Moje slides muzete najit na mem [SpeakerDeck](https://speakerdeck.com/ondrejsika) a seznam vsech talku s vice informacemi vcetne zdrojovych kodu je dostupny zde: [ondrejsika.com/talks](https://ondrejsika.com/talks).
 
 
 ## Kontakt
 
-### Ondrej Sika
+Preferuji komunikaci emailem, vice kontaktu na me najdete na mem soukromem webu na strance [kontakt](https://ondrejsika.com/contact.html). Najdete tam i fakturacni adresu a bankovni spojeni.
 
 - <ondrej@ondrejsika.com>
-- <https://ondrejsika.com>
 - +420 773 452 376
 
-Najdete me take na socialnich sitich:
+Jsem i na socialnich sitich:
 
+- [LinkedIn](https://www.linkedin.com/in/ondrejsika)
 - [Facebook](https://facebook.com/sikaondrej2)
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 
-Vice kontaktu na me najdete na mem webu na strance [kontakt](https://ondrejsika.com/contact.html).
 
-Pokud mate zajem o zasilani novinek ohledne kurzu, muzete se prihlasit k odberu meho [newslettru](http://go.oxs.cz/skoleni-git-newsletter).
-
-
-## Cena
-
-Cena kazdeho kurzu je __2000 CZK__ za osobu, v pripade firemnich skoleni je cena __9000 CZK__ pro za celou firmu.
-
-Studenti maji __50% slevu__, take podproruji holky z [Czechitas](http://czechitas.cz), takze holky maji kurz __zdarma__.
-
-Urcite se da domluvit nejaka skupinova sleva, nebo lepsi cena, v pripade zajmu a nebo dotazu me nevahejte kontaktovat.
-
-
-## Reference
-
-> "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací  kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
->
-> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__
-
-> "Konzultace nam ukazala nove moznosti jak s GITem efektivneji pracovat a zjednodusila nam mnoho dosavadnich postupu"
->
-> __Ing. Vit Chmura, WebNaut s.r.o.__
-
-> "Školení s panem Šikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
->
->  __Lukas Blazicek__
-
-2016 / [Skoleni GIT](https://skoleni-git.cz) / [Ondrej Sika](https://ondrejsika.com)
+2016 / [ondrejsika.cz](https://ondrejsika.cz) / [Ondrej Sika](https://ondrejsika.com)
 

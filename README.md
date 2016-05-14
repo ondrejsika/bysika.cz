@@ -1,6 +1,6 @@
-# [Skoleni GIT](https://skoleni-git.cz)
+# [ondrejsika.cz](https://ondrejsika.cz)
 
-Static website for [skoleni-git.cz](https://skoleni-git.cz).
+Static website for [ondrejsika.cz](https://ondrejsika.cz).
 
 
 - author: Ondrej Sika <ondrej@ondrejsika.com>
