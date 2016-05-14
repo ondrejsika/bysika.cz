@@ -86,6 +86,22 @@ Jsem i na socialnich sitich:
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 
+## Reference
+
+> "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací  kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
+>
+> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__
+
+> "Konzultace nam ukazala nove moznosti jak s GITem efektivneji pracovat a zjednodusila nam mnoho dosavadnich postupu"
+>
+> __Ing. Vit Chmura, WebNaut s.r.o.__
+
+> "Co se Bitcoinu tyce, Ondra vi, o cem mluvi. Dokaze svym zapalenim zaujmout a umi tyto pomerne slozite veci podat tak, aby uspokojil i co do znalosti problematiky ruznorodou skupinu posluchacu, coz neni vubec jednoduchy ukol."
+>
+> __Martin Pilař, Bitcomp s.r.o.__
+
+Vsechny reference jsou na mem soukromem webu na [ondrejsika.com/references.html](https://ondrejsika.com/references.html).
+
 
 2016 / [ondrejsika.cz](https://ondrejsika.cz) / [Ondrej Sika](https://ondrejsika.com)
 
