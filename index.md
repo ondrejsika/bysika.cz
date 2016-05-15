@@ -3,8 +3,6 @@ layout: default
 title: Ondrej Sika
 ---
 
-Toto je muj profesni web. Muj soukromy web je [ondrejsika.com](https://ondrejsika.com)
-
 <div class="alert alert-danger" role="alert">
   <a href="https://ondrejsika.com/static/content/EthereumDeveloper.pdf" class="alert-link">
     Bitcoin Developer Wanted - Slush Pool hleda Bitcoin vyvojare!
@@ -109,6 +107,4 @@ Jsem i na socialnich sitich:
 
 Vsechny reference jsou na mem soukromem webu na [ondrejsika.com/references.html](https://ondrejsika.com/references.html).
 
-
-2016 / [ondrejsika.cz](https://ondrejsika.cz) / [Ondrej Sika](https://ondrejsika.com)
 
