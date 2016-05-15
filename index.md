@@ -16,7 +16,7 @@ Toto je muj profesni web. Muj soukromy web je [ondrejsika.com](https://ondrejsik
 
 <img src="/static/ondrejsika1_200px.jpg">
 
-Jmenuji se Ondrej Sika a jsem Software engeneer na [SlushPoolu](https://slushpool.com) a konzultant.
+Jmenuji se Ondrej Sika a jsem Software engeneer na [Slush Poolu](https://slushpool.com) a konzultant.
 
 Moje zkusenosti jsou prevazne v oblasiti backedu aplikaci a __Bitcoinu__, pouzivam prevazne __Python / Twisted__ a __Python / Django__.
 
