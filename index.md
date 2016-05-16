@@ -9,6 +9,11 @@ title: Ondrej Sika
   </a>
 </div>
 
+<div class="alert alert-success" role="alert">
+  <a href="/blog/tyden-sdileni-2016.html" class="alert-link">
+    Celosvetovy tyden sdileni - Skoleni zdarma nebo s 50% slevou
+  </a>
+</div>
 
 # Ondrej Sika
 
@@ -17,6 +22,8 @@ title: Ondrej Sika
 Jmenuji se Ondrej Sika a jsem Software engeneer na [Slush Poolu](https://slushpool.com) a konzultant.
 
 Moje zkusenosti jsou prevazne v oblasiti backedu aplikaci a __Bitcoinu__, pouzivam prevazne __Python / Twisted__ a __Python / Django__.
+
+Pokud vas zajimaji novinky v tom co delam, sledujte muj [blog](/blog) a nebo odebirente muj [newsletter]()
 
 ### Skills
 
