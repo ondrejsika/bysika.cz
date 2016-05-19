@@ -3,12 +3,6 @@ layout: default
 title: Ondrej Sika
 ---
 
-<div class="alert alert-danger" role="alert">
-  <a href="https://ondrejsika.com/static/content/EthereumDeveloper.pdf" class="alert-link">
-    Bitcoin Developer Wanted - Slush Pool hleda Bitcoin vyvojare!
-  </a>
-</div>
-
 <div class="alert alert-success" role="alert">
   <a href="/blog/tyden-sdileni-2016.html" class="alert-link">
     Celosvetovy tyden sdileni - Skoleni zdarma nebo s 50% slevou
