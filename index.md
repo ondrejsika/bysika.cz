@@ -17,7 +17,7 @@ Jmenuji se Ondrej Sika a jsem Software engeneer na [Slush Poolu](https://slushpo
 
 Moje zkusenosti jsou prevazne v oblasiti backedu aplikaci a __Bitcoinu__, pouzivam prevazne __Python / Twisted__ a __Python / Django__.
 
-Pokud vas zajimaji novinky v tom co delam, sledujte muj [blog](/blog) a nebo odebirente muj [newsletter]()
+Pokud vas zajimaji novinky v tom co delam, sledujte muj [blog](/blog) a nebo odebirente muj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
 
 ### Skills
 
