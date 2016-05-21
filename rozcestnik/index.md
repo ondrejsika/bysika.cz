@@ -16,6 +16,7 @@ title: Ondrej Sika - Profesni rozcestnik
 
 ### Uzitecne odkazy
 
+- [Resume](https://ondrejsika.com/resume.pdf)
 - [Kontakt](https://ondrejsika.com/contact.html)
 - [Reference](https://ondrejsika.com/references.html)
 - [Prednasky](https://ondrejsika.com/talks)
