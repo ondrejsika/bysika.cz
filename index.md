@@ -81,6 +81,13 @@ Dnes je blockchain velmi popularni tema, mohu vam pomoc s integraci blockchainu 
 
 Obcas prednasim na meetupech a konferencich, prevazne na tema Bitcoin a vyvoj software. Moje slides muzete najit na mem [SpeakerDeck](https://speakerdeck.com/ondrejsika) a seznam vsech talku s vice informacemi vcetne zdrojovych kodu je dostupny zde: [ondrejsika.com/talks](https://ondrejsika.com/talks).
 
+## Aktualne vypsane verejne kurzy a skoleni
+
+| Název | Termín | |
+| --- | --- | --- |
+| GIT pro začátečníky | 15. 6. 2016 | [prihlaska](http://goo.gl/forms/61WiMCpVMO3Sm8a83) |
+| GIT pro pokročilé | 22. 6. 2016 | [prihlaska](http://goo.gl/forms/t2RgOGsc1ewxIi3J3) |
+
 
 ## Kontakt
 
