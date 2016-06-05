@@ -37,36 +37,40 @@ Momentalne jsem plne zamestnan praci na [Slush Poolu](https://slushpool.com), ne
 Rad vam pomohu s vyberem vhodneho reseni.
 
 
-### Skoleni
+### Skoleni a konzultace
+
+Konzultuji a skolim v oblastech Bitcoinu a vyvoji softwaru. Pomahal jsem napriklad s pripravou diplomove prace na CVUT a dalsimy zajimavymi projekty. Poradam verejne i firemni skoleni.
+
+Skoleni probyha formou prednasky a workshopu na konkretni tema v malem poctu, max 5 - 7 lidi. Cena skoleni je individualni, zalezi na delce, poctu ucastniku a tematu. Pokud mate zajem o skoleni, [kontaktujte me](#kontakt).
+
+Cena za hodninu konzultace nebo skoleni je 1500 CZK. Pro studenty, univerzity a neziskovky je cena snizena na 600 CZK za hodinu. Za konzultace se da platit Bitcoinem :) Na cene se muzeme domluvit i individualne.
+
+Podporuji holky z [Czechitas](http://czechitas.cz), ktere se snazi dostat vice holek do IT. Pokud chcete usporadat skoleni prevazne pro holky, udelam ho __zdarma__.
+
 
 #### Skoleni GIT
 
-Jiz tri roky skolim lidi a firmy jak spravne a jednoduse pouzivat GIT - [skoleni-git.cz](https://skoleni-git.cz)
+Jiz tri roky skolim lidi a firmy jak spravne a jednoduse pouzivat GIT. Vice informaci na samostatnem webu [skoleni-git.cz](https://skoleni-git.cz)
 
 
 #### Management okolo vyvoje software
 
-V minulosti jsem vedl team vyvojaru na velkem mezinarodnim projektu, ziskal jsem mnoho zkusenosti jak efektivne vyvijet, testovat a nasazovat software. Mohu vam poradit jak pouzivat nastroje na management softwarovych projektu jako je Redmine, Trello, spravu repozitaru pomoci Githubu a Gitlabu, automaticke testovani a nasazovani pomoci Gitlab CI a nastroju jako je Puppet nebo Ansible.
+V minulosti jsem vedl team vyvojaru na velkem mezinarodnim projektu, ziskal jsem mnoho zkusenosti jak efektivne vyvijet, testovat a nasazovat software. Mohu vam poradit jak pouzivat nastroje na management softwarovych projektu jako je __Redmine__, __Trello__, spravu repozitaru pomoci __Githubu__ a __Gitlabu__, automaticke testovani a nasazovani pomoci __Gitlab CI__ a nastroju jako je __Puppet__ nebo __Ansible__.
 
 
 #### Continues Integration a automaticke testovani
 
-Muze byt dalsim pokracovanim skoleni GITu a nebo managementu vyvoje, kde se tematu CI nevenujeme uplne dopodrobna. Naucim Vas si zprovoznit CI enviroment na vlastni infrastrukture a ukazu Vam ze psani spousteni testu automaticky neni nic sloziteho.
+Muze byt dalsim pokracovanim [skoleni GITu](https://skoleni-git.cz) a nebo managementu vyvoje, kde se tematu CI nevenujeme uplne dopodrobna. Naucim Vas si zprovoznit CI enviroment na vlastni infrastrukture a ukazu Vam ze psani spousteni testu automaticky neni nic sloziteho.
 
 #### LaTeX
 
 Tento kurz je vhodny prevazne pro ty, kteri pisi vedecke prace (bakalarske a magisterske prace) a chteji byt usetreni nastavovanim a problemum ktere vznikaji pri psani prace ve Wordu nebo LibreOffice. Ukazeme si ze psani v LaTeXu neni tak slozite jak na prvni pohled vypada a ze po proniknuti bude psani mnohem jednodussi. Vyhodou LaTeXu je efektivni moznost verzovani pomoci GITu a zaroven je mozna realtime kolaborace pomoci nastroje [ShareLatex](https://sharelatex.com) jakou znate z Google Docs.
 
-
-### Konzultace
-
-Mohu s Vami konzultovat jakekoliv tema co se tyka vyvoje softwaru a veci co skolim.
-
 #### Bitcoin
 
 Bitcoinu se venuji vice nez 2 roky a pracuji na velkem Bitcoinovem projektu co se zabiva tezbou - na [SlushPoolu](https://slushpool.com).
 
-Mohu Vam pomoct s implementaci Bitcoinovych plateb, a vseho mozneho co se Bitcoinu tyce.
+O Bitcoinu mohu mluvit pro jakekoliv publikum, zacatecniky i pokrocile. Technicky znale ci nikoliv. Take Vam mohu pomoci s implementaci Bitcoinovych plateb, a vseho mozneho co se Bitcoinu tyce do vaseho softwaru nebo udelat vlastni.
 
 #### Blockchain
 
