@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  Celosvetovy den sdileni
+title:  Celosvětový týden sdílení
 ---
 
-# Celosvetovy tyden sdileni 2016
+# Celosvětový týden sdílení 2016
 
 15/05/2016 / Ondrej Sika
 
-Na portalu [Naucmese.cz](https://naucmese.cz) jsem narazil ze existuje [mezinarodni den sdileni](http://blog.naucmese.cz/post/143850309070/t%C3%BDden-sd%C3%ADlen%C3%AD-2016-s-nau%C4%8Dmese) a tak se i ja rad stanu jeho soucasti. Tyden sdileni je od 5. do 11. 6. a v nem muzete uplatnit tyto zvyhodnene podminky a pozadat me o skoleni nebo o workshop.
+Na portálu [Naucmese.cz](https://naucmese.cz) jsem narazil že existuje [mezinarodní den sdílení](http://blog.naucmese.cz/post/143850309070/t%C3%BDden-sd%C3%ADlen%C3%AD-2016-s-nau%C4%8Dmese) a tak se i ja rád stanu jeho součastí. Týden sdílení je od 5. do 11. 6. a v něm můžete uplatnit tyto zvýhodněné podmínky a požádat mě o školení nebo o workshop.
 
-Pokud jste jakakoliv neziskova organizace, skola ci univerzita nebo skupinka lidi, udelam pro vas skoleni zcela __zdarma__. Pokud jste normalni firma, v tomto tydnu budete mit skoleni se slevou __50%__.
+Pokud jste jakákoliv nezisková organizace, škola či univerzita nebo skupinka lidí, udělám pro Vás školení zcela __zdarma__. Pokud jste normalní firma, v tomto tydnu budete mít školení se slevou __50%__.
 
-Temata si muzete vybrat na hlavni strance v sekci [skoleni](/#skoleni-a-konzultace) a nebo na mem Naucmese [profilu](https://www.naucmese.cz/ondrej-sika). V pripade zajmu me nevahejte [kontaktovat](/#kontakt) nebo se prihlasit do kurzu. Doporucuji napriklad [skoleni Gitu](https://skoleni-git.cz).
+Temata si mužete vybrat na hlavní stránce v sekci [školeni](/#skoleni-a-konzultace) a nebo na mém Naučmese [profilu](https://www.naucmese.cz/ondrej-sika). V případe zájmu mě neváhejte [kontaktovat](/#kontakt) nebo se přihlásit do kurzu. Doporučuji například [skoleni Gitu](https://skoleni-git.cz).
 
