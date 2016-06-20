@@ -3,12 +3,6 @@ layout: default
 title: Ondrej Sika
 ---
 
-<div class="alert alert-success" role="alert">
-  <a href="/blog/tyden-sdileni-2016.html" class="alert-link">
-    Celosvetovy tyden sdileni - Skoleni zdarma nebo s 50% slevou
-  </a>
-</div>
-
 # Ondrej Sika
 
 <img src="/static/ondrejsika1_200px.jpg">
