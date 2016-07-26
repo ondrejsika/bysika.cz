@@ -35,7 +35,7 @@ Rad vam pomohu s vyberem vhodneho reseni.
 
 Konzultuji a skolim v oblastech Bitcoinu a vyvoji softwaru. Pomahal jsem napriklad s pripravou diplomove prace na CVUT a dalsimy zajimavymi projekty. Poradam verejne i firemni skoleni.
 
-Skoleni probyha formou prednasky a workshopu na konkretni tema v malem poctu, max 5 - 7 lidi. Cena skoleni je individualni, zalezi na delce, poctu ucastniku a tematu. Pokud mate zajem o skoleni, [kontaktujte me](#kontakt).
+Skoleni probiha formou prednasky a workshopu na konkretni tema v malem poctu, max 5 - 7 lidi. Cena skoleni je individualni, zalezi na delce, poctu ucastniku a tematu. Pokud mate zajem o skoleni, [kontaktujte me](#kontakt).
 
 Cena za hodninu konzultace nebo skoleni je 1500 CZK. Pro studenty, univerzity a neziskovky je cena snizena na 600 CZK za hodinu. Za konzultace se da platit Bitcoinem :) Na cene se muzeme domluvit i individualne.
 
