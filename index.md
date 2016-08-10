@@ -11,7 +11,7 @@ Jmenuji se Ondrej Sika a jsem Software engeneer na [Slush Poolu](https://slushpo
 
 Moje zkusenosti jsou prevazne v oblasiti backedu aplikaci a __Bitcoinu__, pouzivam prevazne __Python / Twisted__ a __Python / Django__.
 
-Pokud vas zajimaji novinky v tom co delam, sledujte muj [profesni blog](/blog) a nebo odebirente muj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
+Pokud vas zajimaji novinky v tom co delam, sledujte muj [profesni blog](/blog) a nebo odebirejte muj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
 
 ### Skills
 
@@ -33,7 +33,7 @@ Rad vam pomohu s vyberem vhodneho reseni.
 
 ### Skoleni a konzultace
 
-Konzultuji a skolim v oblastech Bitcoinu a vyvoji softwaru. Pomahal jsem napriklad s pripravou diplomove prace na CVUT a dalsimy zajimavymi projekty. Poradam verejne i firemni skoleni.
+Konzultuji a skolim v oblastech Bitcoinu a vyvoji softwaru. Pomahal jsem napriklad s pripravou diplomove prace na CVUT a dalsimi zajimavymi projekty. Poradam verejne i firemni skoleni.
 
 Skoleni probiha formou prednasky a workshopu na konkretni tema v malem poctu, max 5 - 7 lidi. Cena skoleni je individualni, zalezi na delce, poctu ucastniku a tematu. Pokud mate zajem o skoleni, [kontaktujte me](#kontakt).
 
@@ -54,21 +54,21 @@ V minulosti jsem vedl team vyvojaru na velkem mezinarodnim projektu, ziskal jsem
 
 #### Continues Integration a automaticke testovani
 
-Muze byt dalsim pokracovanim [skoleni GITu](https://skoleni-git.cz) a nebo managementu vyvoje, kde se tematu CI nevenujeme uplne dopodrobna. Naucim Vas si zprovoznit CI enviroment na vlastni infrastrukture a ukazu Vam ze psani spousteni testu automaticky neni nic sloziteho.
+Muze byt dalsim pokracovanim [skoleni GITu](https://skoleni-git.cz) a nebo managementu vyvoje, kde se tematu CI nevenujeme uplne dopodrobna. Naucim Vas si zprovoznit CI enviroment na vlastni infrastrukture a ukazu Vam ze psani a spousteni testu automaticky neni nic sloziteho.
 
 #### LaTeX
 
-Tento kurz je vhodny prevazne pro ty, kteri pisi vedecke prace (bakalarske a magisterske prace) a chteji byt usetreni nastavovanim a problemum ktere vznikaji pri psani prace ve Wordu nebo LibreOffice. Ukazeme si ze psani v LaTeXu neni tak slozite jak na prvni pohled vypada a ze po proniknuti bude psani mnohem jednodussi. Vyhodou LaTeXu je efektivni moznost verzovani pomoci GITu a zaroven je mozna realtime kolaborace pomoci nastroje [ShareLatex](https://sharelatex.com) jakou znate z Google Docs.
+Tento kurz je vhodny prevazne pro ty, kteri pisi vedecke prace (bakalarske a magisterske prace) a chteji byt usetreni nastavovani a problemum ktere vznikaji pri psani prace ve Wordu nebo LibreOffice. Ukazeme si, ze psani v LaTeXu neni tak slozite jak na prvni pohled vypada a ze po proniknuti bude psani mnohem jednodussi. Vyhodou LaTeXu je efektivni moznost verzovani pomoci GITu a zaroven je mozna realtime kolaborace pomoci nastroje [ShareLatex](https://sharelatex.com) jakou znate z Google Docs.
 
 #### Bitcoin
 
-Bitcoinu se venuji vice nez 2 roky a pracuji na velkem Bitcoinovem projektu co se zabiva tezbou - na [SlushPoolu](https://slushpool.com).
+Bitcoinu se venuji vice nez 2 roky a pracuji na velkem Bitcoinovem projektu co se zabyva tezbou - na [SlushPoolu](https://slushpool.com).
 
 O Bitcoinu mohu mluvit pro jakekoliv publikum, zacatecniky i pokrocile. Technicky znale ci nikoliv. Take Vam mohu pomoci s implementaci Bitcoinovych plateb, a vseho mozneho co se Bitcoinu tyce do vaseho softwaru nebo udelat vlastni.
 
 #### Blockchain
 
-Dnes je blockchain velmi popularni tema, mohu vam pomoc s integraci blockchainu do vaseho software. Muzu vam pomoc s verejne auditovatelnymi daty na blockchainu jako je napriklad sluzba [BlockSign](https://blocksign.com).
+Dnes je blockchain velmi popularni tema, mohu vam pomoct s integraci blockchainu do vaseho software. Muzu vam pomoc s verejne auditovatelnymi daty na blockchainu jako je napriklad sluzba [BlockSign](https://blocksign.com).
 
 
 ## Prednasim
@@ -112,5 +112,3 @@ Jsem i na socialnich sitich:
 > __Martin Pilař, Bitcomp s.r.o.__
 
 Vsechny reference jsou na mem soukromem webu na [ondrejsika.com/references.html](https://ondrejsika.com/references.html).
-
-
