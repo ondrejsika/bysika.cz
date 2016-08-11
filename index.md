@@ -28,7 +28,7 @@ Muj zivotopis ke stazeni v PDF: [ondrejsika.com/resume.pdf](https://ondrejsika.c
 
 Momentalne jsem plne zamestnan praci na [Slush Poolu](https://slushpool.com), nejsem k dispozici na zadne zakazky vyvoje software.
 
-Rad vam pomohu s vyberem vhodneho reseni.
+Rad Vam pomohu s vyberem vhodneho reseni.
 
 
 ### Skoleni a konzultace
@@ -49,7 +49,7 @@ Jiz tri roky skolim lidi a firmy jak spravne a jednoduse pouzivat GIT. Vice info
 
 #### Management okolo vyvoje software
 
-V minulosti jsem vedl team vyvojaru na velkem mezinarodnim projektu, ziskal jsem mnoho zkusenosti jak efektivne vyvijet, testovat a nasazovat software. Mohu vam poradit jak pouzivat nastroje na management softwarovych projektu jako je __Redmine__, __Trello__, spravu repozitaru pomoci __Githubu__ a __Gitlabu__, automaticke testovani a nasazovani pomoci __Gitlab CI__ a nastroju jako je __Puppet__ nebo __Ansible__.
+V minulosti jsem vedl team vyvojaru na velkem mezinarodnim projektu, ziskal jsem mnoho zkusenosti jak efektivne vyvijet, testovat a nasazovat software. Mohu Vam poradit jak pouzivat nastroje na management softwarovych projektu jako je __Redmine__, __Trello__, spravu repozitaru pomoci __Githubu__ a __Gitlabu__, automaticke testovani a nasazovani pomoci __Gitlab CI__ a nastroju jako je __Puppet__ nebo __Ansible__.
 
 
 #### Continues Integration a automaticke testovani
@@ -68,7 +68,7 @@ O Bitcoinu mohu mluvit pro jakekoliv publikum, zacatecniky i pokrocile. Technick
 
 #### Blockchain
 
-Dnes je blockchain velmi popularni tema, mohu vam pomoct s integraci blockchainu do vaseho software. Muzu vam pomoc s verejne auditovatelnymi daty na blockchainu jako je napriklad sluzba [BlockSign](https://blocksign.com).
+Dnes je blockchain velmi popularni tema, mohu Vam pomoct s integraci blockchainu do vaseho software. Muzu Vam pomoc s verejne auditovatelnymi daty na blockchainu jako je napriklad sluzba [BlockSign](https://blocksign.com).
 
 
 ## Prednasim
