@@ -7,7 +7,7 @@ title: Ondrej Sika
 
 <img src="/static/ondrejsika1_200px.jpg">
 
-Jmenuji se Ondrej Sika a jsem Software engeneer na [Slush Poolu](https://slushpool.com) a konzultant.
+Jmenuju se Ondrej Sika a kromě toho, že vyvíjím software pro Slush Pool taky poskytuju konzultace, poradenství a školení. Ohledně čeho? Je toho hodně - čtěte dál a všechno se dozvíte :-)
 
 Moje zkusenosti jsou prevazne v oblasiti backedu aplikaci a __Bitcoinu__, pouzivam prevazne __Python / Twisted__ a __Python / Django__.
 
