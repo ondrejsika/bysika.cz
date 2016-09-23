@@ -13,7 +13,7 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 
 ### Skills
 
-Nejvíc zkušeností mám v oblasti backendu aplikací a _Bitcoinu_. Nejčastěji používám __Python / Twisted __ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
+Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčastěji používám __Python / Twisted __ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
  
 
 ### Resume
@@ -44,22 +44,20 @@ Kromě Bitcoinu a softwaru mám dlouholeté zkušenosti s GITem, a tak už tři 
 
 #### Management okolo vývoje software
 
-Mám za sebou vedení týmů vývojářů pro velký mezinárodní projekt a vím, co to obnáší. Můžu Vám předat svoje poznatky a zkušenosti s nástroji pro management softwarových projektů jako je __Redmine__, __Trello__, poradit se správou repozitářů pomocí __Githubu__ a __Gitlabu__ a ukázat Vám jak na automatické testování a nasazování pomocí __Gitlab CI__ a nástrojů jako jsou __Puppet__ nebo __Ansible__.
+Mám za sebou vedení týmu vývojářů pro velký mezinárodní projekt a vím, co to obnáší. Můžu Vám předat svoje poznatky a zkušenosti s nástroji pro management softwarových projektů jako je __Redmine__, __Trello__, poradit se správou repozitářů pomocí __Githubu__ a __Gitlabu__ a ukázat Vám jak na automatické testování a nasazování pomocí __Gitlab CI__ a nástrojů jako jsou __Puppet__ nebo __Ansible__.
 
 
 #### Continues Integration a automatické testování
 
-Muze byt dalsim pokracovanim [skoleni GITu](https://skoleni-git.cz) a nebo managementu vyvoje, kde se tematu CI nevenujeme uplne dopodrobna. Naucim Vas si zprovoznit CI enviroment na vlastni infrastrukture a ukazu Vam ze psani a spousteni testu automaticky neni nic sloziteho.
+Může být pokračováním [skoleni GITu](https://skoleni-git.cz) nebo managementu vývoje softwaru. Budeme mít víc prostoru věnovat se tématu CI a automatického testování. Naučím Vás jak spustit CI environment na vaší infrastruktuře a ukážu Vám, že psaní a spouštění textů automaticky není nic, co byste nezvládli.
 
 #### LaTeX
 
-Tento kurz je vhodny prevazne pro ty, kteri pisi vedecke prace (bakalarske a magisterske prace) a chteji byt usetreni nastavovani a problemum ktere vznikaji pri psani prace ve Wordu nebo LibreOffice. Ukazeme si, ze psani v LaTeXu neni tak slozite jak na prvni pohled vypada a ze po proniknuti bude psani mnohem jednodussi. Vyhodou LaTeXu je efektivni moznost verzovani pomoci GITu a zaroven je mozna realtime kolaborace pomoci nastroje [ShareLatex](https://sharelatex.com) jakou znate z Google Docs.
+Píšete vědeckou práci a zpomalují Vás komplikace s nastavením a formátováním v nástrojích jako je WOrd a LibreOffice? LaTeX Vaše problémy vyřeší - a já Vás naučím ho používat. Ukážeme si, že psaní v LaTeXu není tak složité, jak na první pohled vypadá a kromě toho má dost výhod - například možnost efektivního verzování pomocí GITu nebo realtime kolaborace jakou znáte z Google Docs pomocí nástroje [ShareLatex](https://sharelatex.com). 
 
 #### Bitcoin
 
-Bitcoinu se venuji vice nez 2 roky a pracuji na velkem Bitcoinovem projektu co se zabyva tezbou - na [SlushPoolu](https://slushpool.com).
-
-O Bitcoinu mohu mluvit pro jakekoliv publikum, zacatecniky i pokrocile. Technicky znale ci nikoliv. Take Vam mohu pomoci s implementaci Bitcoinovych plateb, a vseho mozneho co se Bitcoinu tyce do vaseho softwaru nebo udelat vlastni.
+Více než dva roky se intenzivně věnuji Bitcoinu v rámci [SlushPoolu](https://slushpool.com), který byl prvním těžebním Poolem na světě. O Bitcoinu můžu mluvit pro jakékoliv publikum, od úplných začátečníků po pokročilé uživatele. Kromě toho vám rád poradím nejen s implementací Bitcoinových plateb do vašeho softwaru, popřípadě s tím jak vytvořit vlastní. 
 
 #### Blockchain
 
