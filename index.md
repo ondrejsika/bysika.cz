@@ -13,7 +13,7 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 
 ### Skills
 
-Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčastěji používám __Python / Twisted __ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
+Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčastěji používám __Python / Twisted__ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
  
 
 ### Resume
