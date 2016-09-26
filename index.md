@@ -18,14 +18,14 @@ Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčast�
 
 ### Resume
 
-Můj životopis si můžete stáhnout v PDF:[ondrejsika.com/resume.pdf](https://ondrejsika.com/resume.pdf)
+Můj životopis si můžete stáhnout v PDF: [ondrejsika.com/resume.pdf](https://ondrejsika.com/resume.pdf)
 
 
 ## S čím Vám můžu pomoct
 
-### Vývoj software
+### Vývoj softwaru
 
-Momentálně jsem plně zaměstnaný prací na [Slush Pool] (https://slushpool.com) a nemám kapacitu na žádné další zakázky na vývoj software. I přes to neváhejte mě kontaktovat se žádostí o pomoc - rád Vám pomůžu s výběrem vhodného řešení.
+Momentálně jsem plně zaměstnaný prací pro [Slush Pool] (https://slushpool.com) a nemám kapacitu na žádné další zakázky na vývoj softwaru. I přes to neváhejte mě kontaktovat se žádostí o pomoc - rád Vám pomůžu s výběrem vhodného řešení.
 
 
 ### Školení a konzultace
@@ -34,56 +34,53 @@ Potřebujete zasvětit do tematiky Bitcoinu nebo vývoje softwaru? Chcete v tét
 
 Školení probíhá formou přednášky a následujícího praktického workshopu na konkrétní téma. Aby školení nepostrádalo na efektivitě, věnuji se vždy maximálně sedmičlené skupině. Cena školení je individuální - záleží na délce, počtu účastníků a tématu - ozvěte se mi a domluvíme se. Pro studenty, univerzity a neziskovky je cena zvýhodněná. Asi Vás nepřekvapí, že se dá platit Bitcoinem :-) Pokud máte o školení zájem, [kontaktujte mě] (#kontakt). 
 
-Kromě toho podporuju holky z [Czechitas](http://czechitas.cz), jejichž misí je dostat do světa IT víc holek. Pokud chcete školení převážně pro ženy, udělám ho __zdarma__.  
+Kromě toho podporuju holky z [Czechitas](http://czechitas.cz), jejichž misí je dostat do světa IT víc holek. Pokud chcete školení převážně pro ženy, dámy, holky či slečny, udělám ho __zdarma__.  
 
 
-#### Školeni GIT
+#### Školení GIT
 
 Kromě Bitcoinu a softwaru mám dlouholeté zkušenosti s GITem, a tak už tři roky radím lidem a firmám, jak ho správně a jednoduše používat. Víc informací najdete na samosatném webu [skoleni-git.cz](https://skoleni-git.cz).
 
 
-#### Management okolo vývoje software
+#### Management okolo vývoje softwaru
 
 Mám za sebou vedení týmu vývojářů pro velký mezinárodní projekt a vím, co to obnáší. Můžu Vám předat svoje poznatky a zkušenosti s nástroji pro management softwarových projektů jako je __Redmine__, __Trello__, poradit se správou repozitářů pomocí __Githubu__ a __Gitlabu__ a ukázat Vám jak na automatické testování a nasazování pomocí __Gitlab CI__ a nástrojů jako jsou __Puppet__ nebo __Ansible__.
 
 
 #### Continues Integration a automatické testování
 
-Může být pokračováním [skoleni GITu](https://skoleni-git.cz) nebo managementu vývoje softwaru. Budeme mít víc prostoru věnovat se tématu CI a automatického testování. Naučím Vás jak spustit CI environment na vaší infrastruktuře a ukážu Vám, že psaní a spouštění textů automaticky není nic, co byste nezvládli.
+Může být pokračováním [školení GITu](https://skoleni-git.cz) nebo managementu vývoje softwaru. Budeme mít víc prostoru věnovat se tématu CI a automatického testování. Naučím Vás jak spustit CI environment na vlastní infrastruktuře a ukážu Vám, že psaní a spouštění textů automaticky není nic, co byste nezvládli.
 
 #### LaTeX
 
-Píšete vědeckou práci a zpomalují Vás komplikace s nastavením a formátováním v nástrojích jako je WOrd a LibreOffice? LaTeX Vaše problémy vyřeší - a já Vás naučím ho používat. Ukážeme si, že psaní v LaTeXu není tak složité, jak na první pohled vypadá a kromě toho má dost výhod - například možnost efektivního verzování pomocí GITu nebo realtime kolaborace jakou znáte z Google Docs pomocí nástroje [ShareLatex](https://sharelatex.com). 
+Píšete vědeckou práci a zpomalují Vás komplikace s nastavením a formátováním v nástrojích jako je Word a LibreOffice? LaTeX Vaše problémy vyřeší - a já Vás naučím ho používat. Ukážeme si, že psaní v LaTeXu není tak složité, jak na první pohled vypadá a kromě toho má dost výhod - například možnost efektivního verzování pomocí GITu nebo realtime kolaborace jakou znáte z Google Docs pomocí nástroje [ShareLatex](https://sharelatex.com). 
 
 #### Bitcoin
 
-Více než dva roky se intenzivně věnuji Bitcoinu v rámci [SlushPoolu](https://slushpool.com), který byl prvním těžebním Poolem na světě. O Bitcoinu můžu mluvit pro jakékoliv publikum, od úplných začátečníků po pokročilé uživatele. Kromě toho vám rád poradím nejen s implementací Bitcoinových plateb do vašeho softwaru, popřípadě s tím jak vytvořit vlastní. 
+Více než dva roky se intenzivně věnuji Bitcoinu v rámci [SlushPoolu](https://slushpool.com), který byl prvním těžebním Poolem na světě vůbec. O Bitcoinu můžu mluvit pro jakékoliv publikum, od úplných začátečníků po pokročilé uživatele. Kromě toho vám rád poradím nejen s implementací Bitcoinových plateb do vašeho softwaru, popřípadě s tím jak vytvořit vlastní. 
 
 #### Blockchain
 
-Dnes je blockchain velmi popularni tema, mohu Vam pomoct s integraci blockchainu do vaseho software. Muzu Vam pomoc s verejne auditovatelnymi daty na blockchainu jako je napriklad sluzba [BlockSign](https://blocksign.com).
+Slovo blockchain se dnes skloňuje stále častěji. Můžu vás provést jak základy tohoto fenoménu, tak vám pomoct se složitějšími operacemi jako například integrací blockchainu do vašeho vlastního softwaru nebo vám přiblížit tematiku auditovatelných dat na blockchainu jako je například [BlockSign](https://blocksign.com).
 
 
-## Prednasim
+## Přednáším
 
-Obcas prednasim na meetupech a konferencich, prevazne na tema Bitcoin a vyvoj software. Moje slides muzete najit na mem [SpeakerDeck](https://speakerdeck.com/ondrejsika) a seznam vsech talku s vice informacemi vcetne zdrojovych kodu je dostupny zde: [ondrejsika.com/talks](https://ondrejsika.com/talks).
+O všech zmíněných tématech taky občas někde veřejně mluvím. Pokud se chcete podívat jak moje prezentace vypadají, dají se najít na mém [SpeakerDeck](https://speakerdeck.com/ondrejsika). Seznam všech přednášek včetně zdrojových kódů se dá jednoduše najít na [ondrejsika.com/talks](https://ondrejsika.com/talks).
 
 ## Aktualne vypsane verejne kurzy a skoleni
 
-| Název | Termín | |
-| --- | --- | --- |
-| GIT pro začátečníky | 15. 6. 2016 | [prihlaska](http://goo.gl/forms/61WiMCpVMO3Sm8a83) |
-| GIT pro pokročilé | 22. 6. 2016 | [prihlaska](http://goo.gl/forms/t2RgOGsc1ewxIi3J3) |
+Momentálně nejsou vypsané žádné kurzy ani školení. Pokud byste o nějaké stáli, [kontaktujte mě] (#kontakt). 
 
 
 ## Kontakt
 
-Preferuji komunikaci emailem, vice kontaktu na me najdete na mem soukromem webu na strance [kontakt](https://ondrejsika.com/contact.html). Najdete tam i fakturacni adresu a bankovni spojeni.
+Preferuji komunikaci přes e-mail, další způsoby jak mě kontaktovat najdete na [kontakt](https://ondrejsika.com/contact.html). 
 
 - <ondrej@ondrejsika.com>
 - +420 773 452 376
 
-Jsem i na socialnich sitich:
+Jsem online: 
 
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
 - [Facebook](https://facebook.com/sikaondrej2)
@@ -92,16 +89,17 @@ Jsem i na socialnich sitich:
 
 ## Reference
 
+> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__:
+>
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací  kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
->
-> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__
 
-> "Konzultace nam ukazala nove moznosti jak s GITem efektivneji pracovat a zjednodusila nam mnoho dosavadnich postupu"
+> __Ing. Vit Chmura, WebNaut s.r.o.__:
 >
-> __Ing. Vit Chmura, WebNaut s.r.o.__
+> "Konzultace nám ukázala nové možnosti jak s GITem efektivneěi pracovat a zjednodušila nám mnoho dosavadních postupů."
 
-> "Co se Bitcoinu tyce, Ondra vi, o cem mluvi. Dokaze svym zapalenim zaujmout a umi tyto pomerne slozite veci podat tak, aby uspokojil i co do znalosti problematiky ruznorodou skupinu posluchacu, coz neni vubec jednoduchy ukol."
+> __Martin Pilař, Bitcomp s.r.o.__:
 >
-> __Martin Pilař, Bitcomp s.r.o.__
+> "Co se Bitcoinu týče, Ondra ví, o čem mluví. Dokáže svým zapálením zaujmout a umí tyto poměrně složité věci podat způsobem, který uspokojí jak posluchače začátečníka, tak pokročilejšího, což není vůbec jednodochý úkol."
 
-Vsechny reference jsou na mem soukromem webu na [ondrejsika.com/references.html](https://ondrejsika.com/references.html).
+
+Další reference najdete na mém soukromém webu: [ondrejsika.com/references.html](https://ondrejsika.com/references.html).
