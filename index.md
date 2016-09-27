@@ -9,12 +9,12 @@ title: Ondrej Sika
 
 Jmenuju se Ondrej Sika a kromě toho, že vyvíjím software pro Slush Pool taky poskytuju konzultace, poradenství a školení. Ohledně čeho Vám můžu poradit se dozvíte hned o pár řádků níž.
 
-Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog] (/blog), nebo odebírat můj [newsletter] (http://go.oxs.cz/skoleni-git-newsletter).
+Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog](/blog), nebo odebírat můj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
 
 ### Skills
 
 Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčastěji používám __Python / Twisted__ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
- 
+
 
 ### Resume
 
@@ -25,16 +25,16 @@ Můj životopis si můžete stáhnout v PDF: [ondrejsika.com/resume.pdf](https:/
 
 ### Vývoj softwaru
 
-Momentálně jsem plně zaměstnaný prací pro [Slush Pool] (https://slushpool.com) a nemám kapacitu na žádné další zakázky na vývoj softwaru. I přes to neváhejte mě kontaktovat se žádostí o pomoc - rád Vám pomůžu s výběrem vhodného řešení.
+Momentálně jsem plně zaměstnaný prací pro [Slush Pool](https://slushpool.com) a nemám kapacitu na žádné další zakázky na vývoj softwaru. I přes to neváhejte mě kontaktovat se žádostí o pomoc - rád Vám pomůžu s výběrem vhodného řešení.
 
 
 ### Školení a konzultace
 
-Potřebujete zasvětit do tematiky Bitcoinu nebo vývoje softwaru? Chcete v této oblasti vzdělat své zaměstnance? Pořádám firemní i veřejná školení. Kromě toho Vám mohu pomoct s přípravou diplomové práce na ČVUT a jiných technicky zaměřených fakultách. 
+Potřebujete zasvětit do tematiky Bitcoinu nebo vývoje softwaru? Chcete v této oblasti vzdělat své zaměstnance? Pořádám firemní i veřejná školení. Kromě toho Vám mohu pomoct s přípravou diplomové práce na ČVUT a jiných technicky zaměřených fakultách.
 
-Školení probíhá formou přednášky a následujícího praktického workshopu na konkrétní téma. Aby školení nepostrádalo na efektivitě, věnuji se vždy maximálně sedmičlené skupině. Cena školení je individuální - záleží na délce, počtu účastníků a tématu - ozvěte se mi a domluvíme se. Pro studenty, univerzity a neziskovky je cena zvýhodněná. Asi Vás nepřekvapí, že se dá platit Bitcoinem :-) Pokud máte o školení zájem, [kontaktujte mě] (#kontakt). 
+Školení probíhá formou přednášky a následujícího praktického workshopu na konkrétní téma. Aby školení nepostrádalo na efektivitě, věnuji se vždy maximálně sedmičlené skupině. Cena školení je individuální - záleží na délce, počtu účastníků a tématu - ozvěte se mi a domluvíme se. Pro studenty, univerzity a neziskovky je cena zvýhodněná. Asi Vás nepřekvapí, že se dá platit Bitcoinem :-) Pokud máte o školení zájem, [kontaktujte mě](#kontakt).
 
-Kromě toho podporuju holky z [Czechitas](http://czechitas.cz), jejichž misí je dostat do světa IT víc holek. Pokud chcete školení převážně pro ženy, dámy, holky či slečny, udělám ho __zdarma__.  
+Kromě toho podporuju holky z [Czechitas](http://czechitas.cz), jejichž misí je dostat do světa IT víc holek. Pokud chcete školení převážně pro ženy, dámy, holky či slečny, udělám ho __zdarma__.
 
 
 #### Školení GIT
@@ -53,11 +53,11 @@ Může být pokračováním [školení GITu](https://skoleni-git.cz) nebo manage
 
 #### LaTeX
 
-Píšete vědeckou práci a zpomalují Vás komplikace s nastavením a formátováním v nástrojích jako je Word a LibreOffice? LaTeX Vaše problémy vyřeší - a já Vás naučím ho používat. Ukážeme si, že psaní v LaTeXu není tak složité, jak na první pohled vypadá a kromě toho má dost výhod - například možnost efektivního verzování pomocí GITu nebo realtime kolaborace jakou znáte z Google Docs pomocí nástroje [ShareLatex](https://sharelatex.com). 
+Píšete vědeckou práci a zpomalují Vás komplikace s nastavením a formátováním v nástrojích jako je Word a LibreOffice? LaTeX Vaše problémy vyřeší - a já Vás naučím ho používat. Ukážeme si, že psaní v LaTeXu není tak složité, jak na první pohled vypadá a kromě toho má dost výhod - například možnost efektivního verzování pomocí GITu nebo realtime kolaborace jakou znáte z Google Docs pomocí nástroje [ShareLatex](https://sharelatex.com).
 
 #### Bitcoin
 
-Více než dva roky se intenzivně věnuji Bitcoinu v rámci [SlushPoolu](https://slushpool.com), který byl prvním těžebním Poolem na světě vůbec. O Bitcoinu můžu mluvit pro jakékoliv publikum, od úplných začátečníků po pokročilé uživatele. Kromě toho vám rád poradím nejen s implementací Bitcoinových plateb do vašeho softwaru, popřípadě s tím jak vytvořit vlastní. 
+Více než dva roky se intenzivně věnuji Bitcoinu v rámci [SlushPoolu](https://slushpool.com), který byl prvním těžebním Poolem na světě vůbec. O Bitcoinu můžu mluvit pro jakékoliv publikum, od úplných začátečníků po pokročilé uživatele. Kromě toho vám rád poradím nejen s implementací Bitcoinových plateb do vašeho softwaru, popřípadě s tím jak vytvořit vlastní.
 
 #### Blockchain
 
@@ -70,17 +70,17 @@ O všech zmíněných tématech taky občas někde veřejně mluvím. Pokud se c
 
 ## Aktualne vypsane verejne kurzy a skoleni
 
-Momentálně nejsou vypsané žádné kurzy ani školení. Pokud byste o nějaké stáli, [kontaktujte mě] (#kontakt). 
+Momentálně nejsou vypsané žádné kurzy ani školení. Pokud byste o nějaké stáli, [kontaktujte mě](#kontakt).
 
 
 ## Kontakt
 
-Preferuji komunikaci přes e-mail, další způsoby jak mě kontaktovat najdete na [kontakt](https://ondrejsika.com/contact.html). 
+Preferuji komunikaci přes e-mail, další způsoby jak mě kontaktovat najdete na [kontakt](https://ondrejsika.com/contact.html).
 
 - <ondrej@ondrejsika.com>
 - +420 773 452 376
 
-Jsem online: 
+Jsem online:
 
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
 - [Facebook](https://facebook.com/sikaondrej2)
@@ -89,17 +89,18 @@ Jsem online:
 
 ## Reference
 
-> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__:
->
+
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací  kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
-
-> __Ing. Vit Chmura, WebNaut s.r.o.__:
 >
+> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__
+
 > "Konzultace nám ukázala nové možnosti jak s GITem efektivneěi pracovat a zjednodušila nám mnoho dosavadních postupů."
-
-> __Martin Pilař, Bitcomp s.r.o.__:
 >
+> __Ing. Vit Chmura, WebNaut s.r.o.__
+
 > "Co se Bitcoinu týče, Ondra ví, o čem mluví. Dokáže svým zapálením zaujmout a umí tyto poměrně složité věci podat způsobem, který uspokojí jak posluchače začátečníka, tak pokročilejšího, což není vůbec jednodochý úkol."
+>
+> __Martin Pilař, Bitcomp s.r.o.__
 
 
 Další reference najdete na mém soukromém webu: [ondrejsika.com/references.html](https://ondrejsika.com/references.html).
