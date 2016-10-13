@@ -3,7 +3,7 @@ layout: default
 title: Ondrej Sika
 ---
 
-# Vývojář Ondrej Sika
+# Vývojář a konzultant Ondrej Sika
 
 <img src="/static/ondrejsika1_200px.jpg">
 
