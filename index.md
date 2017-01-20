@@ -65,7 +65,9 @@ O všech zmíněných tématech taky občas někde veřejně mluvím. Pokud se c
 
 ## Aktualne vypsane verejne kurzy a skoleni
 
-Momentálně nejsou vypsané žádné kurzy ani školení. Pokud byste o nějaké stáli, [kontaktujte mě](#kontakt).
+- [__Workshop Gitu pro začátečníky__, 22. 2. 2017](https://sedu.cz/terminy/2017-02-22-workshop-gitu-pro-zacatecniky.html)
+
+Pokud máte zájem o jiné téma a nebo skolení u Vás ve firemně, [kontaktujte mě](#kontakt).
 
 
 ## Kontakt
