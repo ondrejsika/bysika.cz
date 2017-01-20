@@ -2,18 +2,20 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | default: layout.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="/ondrejsika-cayman/css/normalize.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/ondrejsika-cayman/css/cayman.css">
+    <link rel="stylesheet" href="/ondrejsika-cayman/css/bootstrap.css">
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{{ page.project_name }}</h1>
-      <h2 class="project-tagline">{{ page.project_tagline }}</h2>
-      {% for button in page.buttons %}
+      <h1 class="project-name">{{ page.project_name | default: layout.project_name }}</h1>
+      <h2 class="project-tagline">{{ page.project_tagline | default: layout.project_tagline }}</h2>
+      {% if page.buttons %}{% assign buttons = page.buttons %}{% else %}{% assign buttons = layout.buttons %}{% endif %}
+      {% for button in buttons %}
         <a href="{{ button.link }}" class="btn">{{ button.name }}</a>
       {% endfor %}
     </section>
