@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img src="/static/ondrejsika1_200px.jpg">
-
 Jmenuju se Ondrej Sika a kromě toho, že vyvíjím software pro Slush Pool taky poskytuju konzultace, poradenství a školení. Ohledně čeho Vám můžu poradit se dozvíte hned o pár řádků níž.
 
 Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog](/blog), nebo odebírat můj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
