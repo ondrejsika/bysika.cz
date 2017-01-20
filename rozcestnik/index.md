@@ -4,7 +4,7 @@ title: Ondrej Sika - Profesni rozcestnik
 ---
 
 
-# Ondrej Sika - Profesni rozcestnik
+# Profesni rozcestnik
 
 ### Moje weby
 
@@ -26,14 +26,16 @@ title: Ondrej Sika - Profesni rozcestnik
 
 ### Moje projekty
 
+- [sedu.cz](https://sedu.cz)
 - [skoleni-git.cz](https://skoleni-git.cz)
+- [skoleni-docker.cz](https://skoleni-docker.cz)
 
 ---
 
 
 ### Spolupracuji
 
-- [Slush Poolu](https://slushpool.com)
+- [Slush Pool](https://slushpool.com)
 
 ---
 
