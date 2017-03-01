@@ -86,6 +86,9 @@ Jsem online:
 
 ## Reference
 
+> "Ondra u nas ve firme skolil verzovaci system GIT. Uz od prvniho okamziku bylo poznat, ze disponuje rozsahlymi znalostmi a pochopenim problematiky. Skoleni bylo provadeno s durazem na individualni pristup, profesionalitu a maximalni pokryti probirane latky. Prakticky neexistovala otazka, na kterou by nam nebyl schopny odpovedet. Ondra je ochotny konzultovat oblasti i nad ramec puvodne dohodnuteho skoleni, zejmena ohledne softwaroveho vyvoje. Urcite bych ho za nasi spolecnost doporucil komukoliv a myslim, ze ho vyuzijeme opakovane."
+>
+> __Michal Rampula, 100MEGA Distribution s.r.o__
 
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací  kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
 >
