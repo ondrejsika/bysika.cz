@@ -107,7 +107,7 @@ Jsem online:
 ## Napište mi
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://former.sikaapp.cz/submit/3/czeETckEIDyLDotAdqvHVcRkGOXKsgHG/">
+<form action="https://former.sikaapp.cz/submit/7/QIdzNqOETQwQlryISrcwIOdDFEpYRBZg/">
   <div class="row">
     <div class="col-md-6">
   <div class="form-group">
