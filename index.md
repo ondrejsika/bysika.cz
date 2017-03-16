@@ -83,7 +83,7 @@ Pokud máte zájem o jiné téma a nebo skolení u Vás ve firemně, [kontaktujt
 
 ## Kontakt
 
-- <ondrej@ondrejsika.com>
+- <ondrej@sedu.cz>
 - +420 773 452 376
 
 Jsem online:

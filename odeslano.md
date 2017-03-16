@@ -7,6 +7,6 @@ layout: default
 
 Brzy se Vám ozvu.
 
-V případě jakýchkoliv dotazů pište na <ondrej@ondrejsika.com>
+V případě jakýchkoliv dotazů pište na <ondrej@sedu.cz>
 
 
