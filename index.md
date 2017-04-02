@@ -83,7 +83,7 @@ Pokud máte zájem o jiné téma a nebo skolení u Vás ve firemně, [kontaktujt
 
 ## Kontakt
 
-- <ondrej@sedu.cz>
+- <ondrej@ondrejsika.com>
 - +420 773 452 376
 
 Jsem online:
@@ -127,7 +127,7 @@ Jsem online:
     <textarea class="form-control" name="message" rows="3" placeholder="Zpráva"></textarea>
   </div>
   <div class="form-group">
-    <div class="g-recaptcha" data-sitekey="6LdKSxcUAAAAAAyZH7ZE2chFCqiypRDaDYILZgD3"></div>
+    <div class="g-recaptcha" data-sitekey="6LdEPxsUAAAAAMhB1wmR-GRfO_KdNWmCcpz7F7RX"></div>
   </div>
   <button type="submit" class="btn btn-default background">Odeslat</button>
 </form>

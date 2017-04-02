@@ -1,11 +1,9 @@
-# [ondrejsika.cz](https://ondrejsika.cz)
+# [sika.guru](https://sika.guru)
 
-Static website for [ondrejsika.cz](https://ondrejsika.cz).
+    Ondrej Sika <ondrej@ondrejsika.com>
+    MIT https://ondrejsika.com/license/mit.txt
 
-
-- author: Ondrej Sika <ondrej@ondrejsika.com>
-* license: [MIT](https://ondrejsika.com/license/mit.txt)
-
+Static website for [sika.guru](https://sika.guru).
 
 ## Usage
 
