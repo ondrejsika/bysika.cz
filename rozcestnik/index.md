@@ -9,7 +9,7 @@ title: Ondrej Sika - Profesni rozcestnik
 ### Moje weby
 
 - [Osobni web (English)](https://ondrejsika.com)
-- [Profesni web (Cestina)](https://ondrejsika.cz)
+- [Profesni web (Cestina)](https://sika.guru)
 
 ---
 
