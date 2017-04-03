@@ -2,7 +2,12 @@
 layout: default
 ---
 
-Jmenuji se Ondrej Sika a kromě toho, že vyvíjím software pro Slush Pool taky poskytuji konzultace, poradenství a školení. Ohledně čeho Vám můžu poradit se dozvíte hned o pár řádků níž.
+Jmenuju se __Ondrej Sika__ a kromě toho, že vyvíjím software pro
+[Slush Pool](https://slushpool.com) taky poskytuji konzultace,
+poradenství a školení.
+
+Zároveň pracuji pro agentury, pokud hledáte
+vhodného lektora pro Váš kurz, mohu ho vést já.
 
 <!--
 Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog](/blog), nebo odebírat můj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
@@ -17,83 +22,46 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 }
 </style>
 
+
 ## Nabízím workshopy, školení a konzultace
 
 <div class="background" style="padding: 10px">
 <a href="https://sedu.cz/kurzy/cloudflare.html" class="btn" style="margin: 10px">Cloudflare</a>
 <a href="https://skoleni-git.cz" class="btn" style="margin: 10px">Git</a>
 <a href="https://sedu.cz/kurzy/continues-integration.html" class="btn" style="margin: 10px">Continues Integration</a>
+<br>
 <a href="https://skoleni-docker.cz" class="btn" style="margin: 10px">Docker</a>
 <a href="https://sedu.cz/kurzy/kvm-virtualizace.html" class="btn" style="margin: 10px">KVM Virtualizace</a>
+<a href="https://sedu.cz/kurzy/mongodb.html" class="btn" style="margin: 10px">MongoDB</a>
 </div>
 
+Pokud Vás zajímá nějaká jiná oblast, napište mi email na
+<ondrej@ondrejsika.com> a domluvíme se individuálně.
 
-### Skills
+## Skills
 
 Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčastěji používám __Python / Twisted__ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
-
-<!--
-## S čím Vám můžu pomoct
-
-### Vývoj softwaru
-
-Momentálně jsem plně zaměstnaný prací pro [Slush Pool](https://slushpool.com) a nemám kapacitu na žádné další zakázky na vývoj softwaru. I přes to neváhejte mě kontaktovat se žádostí o pomoc - rád Vám pomůžu s výběrem vhodného řešení.
--->
-
-## Školení a konzultace
-
-Potřebujete zasvětit do tematiky Bitcoinu nebo vývoje softwaru? Chcete v této oblasti vzdělat své zaměstnance? Pořádám firemní i veřejná školení. Kromě toho Vám mohu pomoct s přípravou diplomové práce na ČVUT a jiných technicky zaměřených fakultách.
-
-Školení probíhá formou přednášky a následujícího praktického workshopu na konkrétní téma. Aby školení nepostrádalo na efektivitě, věnuji se vždy maximálně sedmičlené skupině. Cena školení je individuální - záleží na délce, počtu účastníků a tématu - ozvěte se mi a domluvíme se. Pro studenty, univerzity a neziskovky je cena zvýhodněná. Asi Vás nepřekvapí, že se dá platit Bitcoinem :-) Pokud máte o školení zájem, [kontaktujte mě](#kontakt).
-
-### Školení GIT
-
-Kromě Bitcoinu a softwaru mám dlouholeté zkušenosti s GITem, a tak už tři roky radím lidem a firmám, jak ho správně a jednoduše používat. Víc informací najdete na samosatném webu [skoleni-git.cz](https://skoleni-git.cz).
-
-
-### Management okolo vývoje softwaru
-
-Mám za sebou vedení týmu vývojářů pro velký mezinárodní projekt a vím, co to obnáší. Můžu Vám předat svoje poznatky a zkušenosti s nástroji pro management softwarových projektů jako je __Redmine__, __Trello__, poradit se správou repozitářů pomocí __Githubu__ a __Gitlabu__ a ukázat Vám jak na automatické testování a nasazování pomocí __Gitlab CI__ a nástrojů jako jsou __Puppet__ nebo __Ansible__.
-
-
-### Continues Integration a automatické testování
-
-Může být pokračováním [školení GITu](https://skoleni-git.cz) nebo managementu vývoje softwaru. Budeme mít víc prostoru věnovat se tématu CI a automatického testování. Naučím Vás jak spustit CI environment na vlastní infrastruktuře a ukážu Vám, že psaní a spouštění textů automaticky není nic, co byste nezvládli.
-
-
-### Bitcoin
-
-Více než dva roky se intenzivně věnuji Bitcoinu v rámci [SlushPoolu](https://slushpool.com), který byl prvním těžebním Poolem na světě vůbec. O Bitcoinu můžu mluvit pro jakékoliv publikum, od úplných začátečníků po pokročilé uživatele. Kromě toho vám rád poradím nejen s implementací Bitcoinových plateb do vašeho softwaru, popřípadě s tím jak vytvořit vlastní.
-
-### Blockchain
-
-Slovo blockchain se dnes skloňuje stále častěji. Můžu vás provést jak základy tohoto fenoménu, tak vám pomoct se složitějšími operacemi jako například integrací blockchainu do vašeho vlastního softwaru nebo vám přiblížit tematiku auditovatelných dat na blockchainu jako je například [BlockSign](https://blocksign.com).
 
 
 ## Přednáším
 
-O všech zmíněných tématech taky občas někde veřejně mluvím. Pokud se chcete podívat jak moje prezentace vypadají, dají se najít na mém [SpeakerDeck](https://speakerdeck.com/ondrejsika). Seznam všech přednášek včetně zdrojových kódů se dá jednoduše najít na [ondrejsika.com/talks](https://ondrejsika.com/talks).
-
-## Aktualne vypsane verejne kurzy a skoleni
-
-- [__Workshop Gitu pro začátečníky__, 22. 2. 2017](https://sedu.cz/terminy/2017-02-22-workshop-gitu-pro-zacatecniky.html)
-
-Pokud máte zájem o jiné téma a nebo skolení u Vás ve firemně, [kontaktujte mě](#kontakt).
+O všech zmíněných tématech taky občas někde veřejně mluvím. Pokud se
+chcete podívat jak moje prezentace vypadají, dají se najít na 
+mém [SpeakerDeck](https://speakerdeck.com/ondrejsika). Dále je zde 
+většina mých komerčních školení a slidů k nim. Seznam všech 
+přednášek včetně zdrojových kódů se dá jednoduše najít 
+na [ondrejsika.com/talks](https://ondrejsika.com/talks).
 
 
 ## Kontakt
 
-- <ondrej@ondrejsika.com>
+- <ondrej@ondrejsika.com> (preferuji)
 - +420 773 452 376
 
 Jsem online:
 
 - [Na Volné Noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
-- [Facebook](https://facebook.com/sikaondrej2)
-- [Twitter](https://twitter.com/ondrejsika)
-- [Github](https://github.com/ondrejsika)
-- [CV](https://ondrejsika.com/resume.pdf)
 
 
 ## Napište mi
