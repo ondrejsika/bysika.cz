@@ -3,10 +3,10 @@ layout: default
 title: Ondrej Sika -  B2B Spolupráce
 ---
 
-# B2B Spolupráce 
+# B2B Spolupráce
 
 Nabízím možnost B2B spolupráce jako Váš externí lektor. Mohu pro Vás
-školit své stávající kurzy a workshopy, mohu pro Vás připravit kurz na 
+školit své stávající kurzy a workshopy, mohu pro Vás připravit kurz na
 přání nebo školit nějaký Váš stávající kurz.
 
 Moje cena je 13 000 CZK za den školení, ale jsem otevřen diskuzi.
