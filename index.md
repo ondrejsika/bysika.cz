@@ -13,6 +13,10 @@ vhodného lektora pro Váš kurz, mohu ho vést já.
 Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog](/blog), nebo odebírat můj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
 -->
 
+## Aktuálně vypsané termíny
+
+- [Git workshop pro začátečníky](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html) - 21. 6. 2017
+
 <style>
 .background {
     color: #fff;
