@@ -23,12 +23,9 @@ Mám zkušenosti v oblastech:
 - KVM Virtualizace - Virtualizujte levněji
 
 
-Většina mých školení je na webu [sedu.cz](https://sedu.cz), každé
+Některá moje školení jsou na webu [sedu.cz](https://sedu.cz), kompletní seznam je na <http://bit.ly/sikaskoleni>. Každé
 školení Vám mohu upravit na míru.
 
-Další školení která plánuji:
-
-- Generátor statických stránek [Jekyll](jekyllrb.com)
 
 
 ## Kontakt
