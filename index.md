@@ -17,9 +17,18 @@ a nebo si domluvit si koleni u Vás ve firmě.
 Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog](/blog), nebo odebírat můj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
 -->
 
-## Aktuálně vypsané termíny
+## Aktuálně vypsané termíny veřejných školení
 
+- __Git__ (pro začátečníky a mírně pokročilé) - 15. 11. 2017
+- __Gitlab a Continues Integration__ (pro mírně a středně pokročilé) - 16. 11. 2017
+- __Docker__ (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017
+- __Cloudflare__ (pro začátečníky a mírně pokročilé) - 29. 11. 2017
+
+Pokud máte zájem o nějaký kurz, napište mi email na <ondrej@ondrejsika.com>
+
+<!--
 - [Git workshop pro začátečníky](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html) - 21. 6. 2017
+-->
 
 <style>
 .background {
