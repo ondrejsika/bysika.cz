@@ -2,12 +2,16 @@
 layout: default
 ---
 
-Jmenuju se __Ondrej Sika__ a kromě toho, že vyvíjím software pro
-[Slush Pool](https://slushpool.com) taky poskytuji konzultace,
-poradenství a školení.
+<p style="font-size: 1.5em; color: #157c73 ">
+Zlepšuji práci vývojářských týmu zaváděním efektivních procesu ve vývoji a
+použitím prověřených nástrojů a technologií, které vedou k rychlejšímu vývoji
+a bezpečnějšímu provozu vašeho software.
+</p>
 
-Zároveň pracuji pro agentury, pokud hledáte
-vhodného lektora pro Váš kurz, mohu ho vést já.
+Tyto nástroje a technologie zároveň školím, můžete přijít na otevřený termín
+a nebo si domluvit si koleni u Vás ve firmě.
+
+Částečně pracují jako Software Engineer na [Slush Pool](https://slushpool.com) (Těžení Bitcoinu a dalších kryptomen).
 
 <!--
 Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog](/blog), nebo odebírat můj [newsletter](http://go.oxs.cz/skoleni-git-newsletter).
@@ -21,32 +25,27 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 .background {
     color: #fff;
     text-align: center;
-    background-color: #159957;
-    background-image: linear-gradient(120deg, #155799, #159957);
+    background-color: #157c73;
 }
 </style>
 
 
 ## Nabízím workshopy, školení a konzultace
 
-<div class="background" style="padding: 10px">
-<a href="https://sedu.cz/kurzy/cloudflare.html" class="btn" style="margin: 10px">Cloudflare</a>
-<a href="https://skoleni-git.cz" class="btn" style="margin: 10px">Git</a>
-<a href="https://sedu.cz/kurzy/continues-integration.html" class="btn" style="margin: 10px">Continues Integration</a>
-<br>
-<a href="https://skoleni-docker.cz" class="btn" style="margin: 10px">Docker</a>
-<a href="https://sedu.cz/kurzy/kvm-virtualizace.html" class="btn" style="margin: 10px">KVM Virtualizace</a>
-<a href="https://sedu.cz/kurzy/mongodb.html" class="btn" style="margin: 10px">MongoDB</a>
-</div>
+- [__Git__](https://skoleni-git.cz) - nástroj na management zdrojových kódu a efektivní spolupráci v teamu
+- [__Docker__](https://skoleni-docker.cz) - kontejnery na zjednodušují proces vývoje a nasazení aplikaci
+- [Continues Integratin](https://sedu.cz/kurzy/continues-integration.html) - automatické testování a nasazování
+- [Cloudflare](https://sedu.cz/kurzy/cloudflare.html) - chrání a zrychluje Váš web
+- [KVM Virtualizace](https://sedu.cz/kurzy/kvm-virtualizace.html)
 
 Pokud Vás zajímá nějaká jiná oblast, napište mi email na
 <ondrej@ondrejsika.com> a domluvíme se individuálně.
 
-## Skills
+## Zkušenosti
 
 Nejvíc zkušeností mám v oblasti backendu aplikací a __Bitcoinu__. Nejčastěji používám __Python / Twisted__ a __Python / Django__, kromě toho pracuju s __PostgreSQL__, __MySQL__, JS (Angular), NodeJS, C, Bash, LaTeX, NoSQL (MongoDB, Neo4j).
 
-
+<!--
 ## Přednáším
 
 O všech zmíněných tématech taky občas někde veřejně mluvím. Pokud se
@@ -55,6 +54,7 @@ mém [SpeakerDeck](https://speakerdeck.com/ondrejsika). Dále je zde
 většina mých komerčních školení a slidů k nim. Seznam všech 
 přednášek včetně zdrojových kódů se dá jednoduše najít 
 na [ondrejsika.com/talks](https://ondrejsika.com/talks).
+-->
 
 
 ## Kontakt
