@@ -19,10 +19,10 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 
 ## Aktuálně vypsané termíny veřejných školení
 
-- __Git__ (pro začátečníky a mírně pokročilé) - 15. 11. 2017
-- __Gitlab a Continues Integration__ (pro mírně a středně pokročilé) - 16. 11. 2017
-- __Docker__ (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017
-- __Cloudflare__ (pro začátečníky a mírně pokročilé) - 29. 11. 2017
+- [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-15-11-2017.html) (pro začátečníky a mírně pokročilé) - 15. 11. 2017
+- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-16-11-2017.html) (pro mírně a středně pokročilé) - 16. 11. 2017
+- [__Docker__](https://sedu.cz/terminy/skoleni-dockeru-praha-22-11-2017.html) (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017
+- [__Cloudflare__](https://sedu.cz/terminy/clodflare-praha-29-11-2017.html) (pro začátečníky a mírně pokročilé) - 29. 11. 2017
 
 Pokud máte zájem o nějaký kurz, napište mi email na <ondrej@ondrejsika.com>
 
