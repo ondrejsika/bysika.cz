@@ -23,23 +23,19 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 - [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-05-02-2018.html) (pro začátečníky a mírně pokročilé) - 5. 2. 2018
 - [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-06-02-2018.html) (pro mírně a středně pokročilé) - 6. 2. 2018
 
+Pokud máte zájem o nějaký kurz, napište mi email na <ondrej@ondrejsika.com>
+
+<!--
+- [__Docker__](https://sedu.cz/terminy/skoleni-dockeru-praha-22-11-2017.html) (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017
+- [__Cloudflare__](https://sedu.cz/terminy/clodflare-praha-29-11-2017.html) (pro začátečníky a mírně pokročilé) - 29. 11. 2017
+- [Git workshop pro začátečníky](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html) - 21. 6. 2017
+-->
+
 ## Klienti
 
 {% include clients.html %}
 
 <div style="height: 20px;"></div>
-
-<!--
-- [__Docker__](https://sedu.cz/terminy/skoleni-dockeru-praha-22-11-2017.html) (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017
-- [__Cloudflare__](https://sedu.cz/terminy/clodflare-praha-29-11-2017.html) (pro začátečníky a mírně pokročilé) - 29. 11. 2017
--->
-
-Pokud máte zájem o nějaký kurz, napište mi email na <ondrej@ondrejsika.com>
-
-<!--
-- [Git workshop pro začátečníky](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html) - 21. 6. 2017
--->
-
 <style>
 .background {
     color: #fff;
