@@ -19,6 +19,7 @@ Pokud se chcete dozvědět víc o tom, co dělám, můžete sledovat můj [blog]
 
 ## Aktuálně vypsané termíny veřejných školení
 
+- [__Docker, Compose & Swarm__](https://sedu.cz/terminy/skoleni-dockeru-praha-29-01-2018.html?utm_source=skoleni-docker.cz) (pro začátečníky a mírně pokročilé, Praha, 29. - 30. 1. 2018
 - [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-05-02-2018.html) (pro začátečníky a mírně pokročilé) - 5. 2. 2018
 - [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-06-02-2018.html) (pro mírně a středně pokročilé) - 6. 2. 2018
 
