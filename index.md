@@ -49,7 +49,7 @@ Pokud máte zájem o nějaký kurz, napište mi email na <ondrej@ondrejsika.com>
 
 - [__Git__](https://skoleni-git.cz) - nástroj na management zdrojových kódu a efektivní spolupráci v teamu
 - [__Docker__](https://skoleni-docker.cz) - kontejnery na zjednodušují proces vývoje a nasazení aplikaci
-- [Continues Integratin](https://sedu.cz/kurzy/continues-integration.html) - automatické testování a nasazování
+- [Continues Integration](https://sedu.cz/kurzy/continues-integration.html) - automatické testování a nasazování
 - [Cloudflare](https://sedu.cz/kurzy/cloudflare.html) - chrání a zrychluje Váš web
 - [KVM Virtualizace](https://sedu.cz/kurzy/kvm-virtualizace.html)
 
