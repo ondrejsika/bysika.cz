@@ -9,7 +9,7 @@ a bezpečnějšímu provozu vašeho software.
 </p>
 
 Tyto nástroje a technologie zároveň školím, můžete přijít na otevřený termín
-a nebo si domluvit si koleni u Vás ve firmě.
+a nebo si domluvit školeni u Vás ve firmě.
 
 Částečně pracují jako Software Engineer na [Slush Pool](https://slushpool.com) (Těžení Bitcoinu a dalších kryptomen).
 
